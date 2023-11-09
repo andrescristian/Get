@@ -4,9 +4,6 @@
  * https://joseassis.com.br
  */
 
-// imc (índice de massa corporal)
-// fcm (frequência cardiaca máxima)
-// tmb (taxa metabólica basal)
 let peso, altura, idade, imc, fcm, tmb
 
 function calcular() {
