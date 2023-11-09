@@ -13,5 +13,5 @@
     </a>
 </p>
 
-<h1 align="center">Get</h1>
-<p align="center">Calculadora do <ins>Gasto Energético Total</ins></p>
+<h1 align="center">Página Web - Get</h1>
+<p align="center">Calculadora do Gasto Energético Total</p>
