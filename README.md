@@ -1,2 +1,2 @@
 <h1 align="center">Get</h1>
-<p>Calculadora do gasto energético Total</p>
+<p align="center">Calculadora do <ins>Gasto Energético Total</ins></p>
