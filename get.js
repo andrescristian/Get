@@ -1,6 +1,6 @@
 /**
  * APP Health
- * @author Professor José de Assis
+ * @author Andres Cristian
  * https://joseassis.com.br
  */
 
